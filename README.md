@@ -1,5 +1,5 @@
 <div>
-<h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+<h2 align="center">            HELLO MY FRIEND</h2>
  <br>
 <p>
   <div align="center">
@@ -19,7 +19,7 @@
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/>
  
  <br><br>
-Im also very good at writing Guides like my Yuzu Emulator Guide or writing this shit here. Literally took me Hours to write this while hearing music. Also good @ Graphics Design and trying out character animation.
+am trying my best please don't roast my code 
 </p>
 <br>
 
