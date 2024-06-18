@@ -19,7 +19,7 @@
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/>
  
- <p align="top"> am trying my best please don't roast my code </p>
+ <p align="right"> am trying my best please don't roast my code </p>
  
 </p>
 <br>
