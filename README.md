@@ -20,10 +20,10 @@
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/>
  
  <p align="center"> am trying my best please don't roast my code </p>
+
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevHajj)](https://github.com/anuraghazra/github-readme-stats)
  
 </p>
 <br>
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevHajj)](https://github.com/anuraghazra/github-readme-stats)
