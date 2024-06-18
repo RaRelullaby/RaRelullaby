@@ -21,7 +21,7 @@
  
  <p align="center"> am trying my best please don't roast my code </p>
 
- <p align="center"> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevHajj)](https://github.com/anuraghazra/github-readme-stats) </p>
+ <p align="center"> <img src='https://github-readme-stats.vercel.app/api?username=DevHajj'/> </p>
  
 </p>
 <br>
