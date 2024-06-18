@@ -13,6 +13,8 @@
 Im also very good at writing Guides like my Yuzu Emulator Guide or writing this shit here. Literally took me Hours to write this while hearing music. Also good @ Graphics Design and trying out character animation.
 </p>
 <br>
+<br>
+<br>
 
 
 
