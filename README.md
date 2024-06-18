@@ -3,7 +3,7 @@
  <br>
 <p>
   <div align="center">
-<img src="https://media1.tenor.com/m/U73Vs9PVl4oAAAAd/cod-mw2-cod-mw2ghost.gif" align="right">
+<img src="https://giphy.com/gifs/meme-stare-staring-TyCkeguzsTOI4k0JXT" align="right">
   </div>
 </div>
 <div>
