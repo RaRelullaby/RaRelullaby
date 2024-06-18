@@ -19,7 +19,7 @@
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/>
  
  <br><br>
-am trying my best please don't roast my code 
+       am trying my best please don't roast my code 
 </p>
 <br>
 
